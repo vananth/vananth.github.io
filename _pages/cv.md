@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* Master of Science in Economics, University of Wisconsin at Madison, 2018
-* Post Graduate Diploma in Liberal Studies, Ashoka University, 2016
-* Bachelor of Arts in Economics, Madras University, 2015
+* Master of Science in Economics, [University of Wisconsin at Madison](https://econ.wisc.edu/masters/), 2018
+* Post Graduate Diploma in Liberal Studies, [Ashoka University](https://www.ashoka.edu.in/YIF), 2016
+* Bachelor of Arts in Economics, [University of Madras](https://www.mcc.edu.in/index.php/departments/aided-stream/economics), 2015
 
 Work experience
 ======

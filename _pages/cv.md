@@ -33,31 +33,37 @@ Work experience
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Python (Pandas, ScikitLearn, Numpy, SciPy)
+* SQL
+* R-Programming
+* Tableau
+* Excel 
+* STATA
 
-Publications
+Relevant Coursework 
+=====
+* Data Visualization
+* Applied Econometrics
+* Mathematics for Economics
+* Multi-Variate Calculus
+* Linear Algebra
+* Statistics
+* Business
+* Macroeconomics
+* Microeconomics 
+
+Independent Coursework
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* Machine Learning - Stanford University on Coursera
+* Introduction to Data Science with Python Coursera
+* Applied Machine Learning with Python Coursera
+
+Research Projects
+======
+* Building trust in Machine Learning Systems · Jan 2018 to Current
+  * Graduate Research - Using an experimental approach to evaluate human trust formation in AI systems
+* The impact of introduction of Ridesharing platforms on Traffic Congestion in Urban Centers ·Aug 2017 to Dec 2017
+  * [Masters Thesis](www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) - Worked with data from multiple sources and used Econometric Methods to isolate the causal effect of the introduction of Ride Sharing services, specifically, Uber on Traffic Congestion
+* The Prevalence of 'Money Illusion' among Indian College Students · Jan 2015 to May 2015
+  * Used a survey methodology to understand the degree to which Indian college students are affected by 'Money Illusion'
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Resume"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,21 +11,21 @@ redirect_from:
 
 Education
 ======
-* B.S. in Github, Github University, 2012
-* M.S. in Jekyll, Github University, 2014
-* Ph.D in Version Control Theory, Github University, 2018 (expected)
+* Master of Science in Economics, University of Wisconsin at Madison, 2018
+* Post Graduate Diploma in Liberal Studies, Ashoka University, 2016
+* Bachelor of Arts in Economics, Madras University, 2015
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2017: Dell - Summer Intern, Sales Analytics
+  * Built statistical model prototypes in R to predict quarterly sales revenue numbers of deals valued larger than $25,000
+  * Achieved an improvement in error rate of 7% using a timeseries approach
+  * Effectively collaborated with Dell Data Scientists to understand business requirements and business process
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Jan 2015 - Jun 2015 : Neighbourbase.com - Co-Founder
+  Neighbourbase.com is an online platform that enables peer to peer collaborative consumption
+  * Spearheaded development of neighbourbase.com using SCRUM methods from conception of the idea, defining user stories to     final product in 3 months
+  * Gained first hand exposure to team and project management
   
 Skills
 ======

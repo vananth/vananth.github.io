@@ -23,9 +23,18 @@ Work experience
   * Effectively collaborated with Dell Data Scientists to understand business requirements and business process
 
 * Jan 2015 - Jun 2015 : Neighbourbase.com - Co-Founder
-  Neighbourbase.com is an online platform that enables peer to peer collaborative consumption
+
+Neighbourbase.com is an online platform that enables peer to peer collaborative consumption
+===========================================================================================
   * Spearheaded development of neighbourbase.com using SCRUM methods from conception of the idea, defining user stories to     final product in 3 months
   * Gained first hand exposure to team and project management
+  
+* Summer 2014: Happay V.A Tech Ventures 
+
+Happay is a funded startup in the Fintech space in India
+========================================================
+  * Designed gamified consumer engagement framework for an expense management application based on Gamification principles
+  * Enhanced online marketing and analytics initiatives by implementing a Google AdWords campaign and tracking it using Google Analytics
   
 Skills
 ======

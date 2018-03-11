@@ -1,9 +1,36 @@
 ---
-title: 'Lessons From Trying To Start-Up'
-date: 2017-12-15
-permalink: /posts/2017/12/neighbourbaselessons/
+title: 'A/B Testing and Econometrics - Part 1'
+date: 2018-01-20
+permalink: /posts/2018/01/ABtestP1/
 tags:
-  - SharingEconomy
-  - StartUp
-  - Experiences
+  - Econometrics
+  - A/B Testing
+  - Analytics
 ---
+
+A/B testing is one of the primary tests tech companies use before they roll out new features or changes to their products. If you pay close attention you might be able to point out that you’re part of an A/B test by noticing a subtle change on an app or website that you use. At its core an A/B test is nothing but a controlled experiment. A fraction of users are randomly assigned to a control and another fraction randomly assigned to a treatment. The control is the status quo, where there is no change in the product. The treatment is the case where the users see a change in the product. The difference in the metric of interest, known more formally as the outcome variable, between the control group and the treatment group is the causal effect of the change. 
+
+The goal of any A/B test is to quantitatively ascertain, with statistical significance, the causal effect of a change measured by some pre defined metric - known in some cases as a KPI (Key Performance Indicator). For example, a company may be interested in quantifying the change in click through rate by altering the position of a button on its website or app. Companies also test more complex things like sign-up flows, landing page designs. etc with a focus on tracking conversion via a specific pre defined metric. 
+
+The advantage of an A/B test is the fact that the design allows for causal identification. Causal identification is important because correlation doesn’t imply causation. For example, if a company were to simply make a change on a product and after a certain amount of time look at the value of the pre defined metric, what they will be picking out is a correlation between the the change and the predefined metric. The reason for this is the fact that multiple things are likely happening at the same time that could affect the metric. However, the strategy of control and treatment uses the control as a benchmark to estimate the effect of this change on the treatment. 
+
+From the perspective of identifying the causal effect of a change in a product setting, the A/B test is the gold standard. Tech companies typically have users in the millions, therefore the sample sizes for these tests are easily large enough to get an answer with a high level of statistical significance. In addition to this, random assignment is easy - this prevents selection bias and allows for true causal inference. 
+
+A/B testing, while admittedly the gold standard, isn’t always something that is feasible. There are ethical concerns that come up when running an experiment and more pertinent to the case of a product company is actually alienating users through these experiments. The other case where A/B tests can’t help are looking at something retrospectively or trying to see if something out of the control of the product team affects usage - you can’t run experiments on things that you can’t control. This begs the question: Are there other ways to ascertain causal inference when experiments are not feasible?
+
+The answer to this question lies in the Econometricians tool box. Econometrics as a field is primarily focused on causal inference and a lot of the questions that economists ask can’t be tested by running an experiment. Experiments run in the real world are very expensive and if you’re asking questions like - what the causal effect of an extra year of schooling is on wage earning - there is no good way to construct an experiment to test this. Randomly assigning students who want to complete school to a control group where they are forced out of school one year before the treatment group is simply infeasible.
+
+Econometricians, however, have designed tools to answer these questions. The successful use of these tools is by using what are known as ‘natural experiments’ to approximate conditions that would have resulted from designing and running experiments. 
+
+In the schooling example that I cited earlier economists Angrist and Krueger used a creative method where they used the season of a child's birth and state laws that mandate compulsory school attendance to identify the causal effect of an extra year of schooling. The season of a child's birth influences when a child can start school which in turn, many years down the line, alters the date that the same child can drop out of school by a year. This provides them with the control group that were born in the same year, within months of each other, but could drop out one year before the treatment group. An impossible condition to achieve in an experimental setting.
+
+These methods are more widely applicable to answer other questions around causal inference where A/B testing is infeasible. These methods while not as robust as an experiment do a great job of identifying causal effects. They require a bit of creativity and some simplifying assumptions, but they work when an experiment is infeasible. 
+
+Part 2 of this post focuses on an explanation of some of these methods.
+
+
+References
+
+Angrist, J. D., and A. B. Krueger. “Does Compulsory School Attendance Affect Schooling and Earnings?” The Quarterly Journal of Economics, vol. 106, no. 4, Jan. 1991, pp. 979–1014., doi:10.2307/2937954.
+
+Angrist, Joshua D., and Pischke Jörn-Steffen. [Mostly Harmless Econometrics: an Empiricist's Companion](https://www.amazon.com/Mostly-Harmless-Econometrics-Empiricists-Companion/dp/0691120358). Princeton University Press, 2009.

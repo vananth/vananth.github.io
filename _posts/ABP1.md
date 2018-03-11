@@ -1,6 +1,6 @@
 ---
 title: 'A/B Testing and Econometrics - Part 1'
-date: 2018-01-20
+date: 2018-01-17
 permalink: /posts/2018/01/ABtestP1/
 tags:
   - Econometrics

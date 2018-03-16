@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-My name is Vignesh Ananth and I’m a masters candidate at the University of Wisconsin at Madison studying Economics, I focus primarily on Econometrics and quantitative methods in Economics. Working with data excites me, more specifically, I am interested in blending ideas from Econometrics with Data Science and Machine Learning. 
+My name is Vignesh Ananth and I’m a masters candidate at the University of Wisconsin at Madison studying Economics. I focus primarily on Econometrics and quantitative methods in Economics. 
 
-I have been interested in the sharing economy for a while, I attempted to build a sharing economy startup called neighbourbase in 2015 (Read about the lessons I learnt from that experience [here](/posts/2017/12/neighbourbaselessons/)) and currently my research interests are in studying the wider social impact of these sharing economy technology platforms - think Uber, Lyft, Airbnb. etc in a data driven manner using causal inference techniques from Econometrics. ([Here](http://www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) is something I’ve worked on)
+I am fascinated by data. Specifically, I am interested in blending ideas from Econometrics with Data Science and Machine Learning. 
 
-I am also working on human interaction with Machine Learning systems, trying to answer questions around how humans develop trust in Machine Learning systems and ways to aid the process of trust formation in these systems.
+I have been interested in the sharing economy for a while. I buit a sharing economy startup called Neighbourbase in 2015. You can read about the lessons I learnt from that experience [here](/posts/2017/12/neighbourbaselessons/)). My current research interests are in studying the sharing economy platforms like Uber, Lyft, Airbnb etc. in a data driven manner using causal inference techniques from Econometrics. For example, I [studied](http://www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) the effect of ride sharing platforms on traffic congestion.
 
-In my free time, I enjoy reading anything that is non-fiction - topics that I end up frequently reading about are technology, psychology and economics. When I don’t have the time to read books, I enjoy heavy doses of the [Wired](http://www.wired.com), [NewYorker](http://www.newyorker.com) and [The Atlantic](http://www.theatlantic.com). I also like to consider myself an amateur runner, if you will, I have done a couple of half-marathons, dream of running a full marathon or an ultra marathon some day. I can do a 5k in about 22 minutes on a good day - not a bad place to start eh?
+I am also currently writing a paper on human interaction with Machine Learning systems, exploring questions of trust formation.
+
+When I'm not doing any of these things, I enjoy reading books about non-fiction technology, psychology and economics - honestly anything that is non-fiction. I enjoy heavy doses of *Wired*, *New Yorker* and *The Atlantic*. I also like to consider myself an amateur runner; while I have done a couple of half-marathons, my dream is to run a full marathon or an ultra marathon one day.

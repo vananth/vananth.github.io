@@ -10,9 +10,7 @@ redirect_from:
 
 My name is Vignesh Ananth and I’m a masters candidate at the University of Wisconsin at Madison studying Economics. I focus primarily on Econometrics and quantitative methods in Economics. 
 
-I am fascinated by data. Specifically, I am interested in blending ideas from Econometrics with Data Science and Machine Learning. 
-
-I have been interested in the sharing economy for a while. I buit a sharing economy startup called Neighbourbase in 2015. You can read about the lessons I learnt from that experience [here](/posts/2017/12/neighbourbaselessons/). My current research interests are in studying the sharing economy platforms like Uber, Lyft, Airbnb etc. in a data driven manner using causal inference techniques from Econometrics. For example, I [studied](http://www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) the effect of ride sharing platforms on traffic congestion.
+I am fascinated by data. Specifically, I am interested in blending ideas from Econometrics with Data Science and Machine Learning. I have been interested in the sharing economy for a while. I buit a sharing economy startup called Neighbourbase in 2015. You can read about the lessons I learnt from that experience [here](/posts/2017/12/neighbourbaselessons/). My current research interests are in studying the sharing economy platforms like Uber, Lyft, Airbnb etc. in a data driven manner using causal inference techniques from Econometrics. For example, I [studied](http://www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) the effect of ride sharing platforms on traffic congestion.
 
 I am also currently writing a paper on human interaction with Machine Learning systems, exploring questions of trust formation.
 

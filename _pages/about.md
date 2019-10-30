@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Vignesh Ananth and I’m a Data Scientist with a background in Econometrics and Quantitative Economics. I currently work on applying a Machine Learning approach to problems related to pricing and revenue management in the airline industry at a startup called [FLYR] (/http://flyrlabs.com/) in San Francisco.  
+My name is Vignesh Ananth and I’m a Data Scientist with a background in Econometrics and Quantitative Economics. I currently work on applying a Machine Learning approach to problems related to pricing and revenue management in the airline industry at a startup called [FLYR](/http://flyrlabs.com/) in San Francisco.  
 
 I am interested in blending ideas from Econometrics with Data Science and Machine Learning. I have been interested in the sharing economy for a while. I built a sharing economy startup called Neighbourbase in 2015. You can read about the lessons I learnt from that experience [here](/posts/2017/12/neighbourbaselessons/). My current research interests are in studying the sharing economy platforms like Uber, Lyft, Airbnb etc. in a data driven manner using causal inference techniques from Econometrics. For example, I [studied](http://www.vigneshananth.com/posts/2018/ridesharingtrafficcongestion) the effect of ride sharing platforms on traffic congestion.
 

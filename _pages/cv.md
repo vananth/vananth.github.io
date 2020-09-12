@@ -17,6 +17,15 @@ Education
 
 Work experience
 ======
+* August 2018 - Current: [FLYR](http://www.flyrlabs.com), Data Scientist 
+  * Collaborated with Product and Engineering to understand data requirements and designed the schema for a Canonical Data Model that enabled standardization of  FLYRs codebase across all clients
+  * Deployed a Poisson Regression demand estimation model to production that allowed FLYR to bring an additional 70% of the largest customers revenue in scope for management
+  * Built Data Pipelines on Airflow and Argo utilizing several large data sources, complex SQL queries and Python operators
+  * Saved numerous hours for the team by automating repetitive reporting and analytics tasks using Tableau Dashboards and Cron Jobs
+  * Designed A/B testing experiments to prove revenue uplift of FLYRs product vs legacy systems
+  * Collaborated directly with Airline Clients (>$10 Billion market cap) and Product Management to define KPIs and develop a reporting tool to measure the real-time performance of FLYRs product that is in use by key stakeholders internally and across FLYR's 3 largest clients
+  * Reduced cloud spend by $x0000 by evangelizing SQL query best practices and improving database partitioning methods company-wide
+ 
 * Summer 2017: Dell - Summer Intern, Sales Analytics
   * Built statistical model prototypes in R to predict quarterly sales revenue numbers of deals valued larger than $25,000
   * Achieved an improvement in error rate of 7% using a timeseries approach
